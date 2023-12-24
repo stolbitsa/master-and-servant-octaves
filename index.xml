@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>master-and-servant-octaves</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="tonic-harmonic"/>
   <readme>
-    <en>48f5c2e95e69d77fc7f61a37d503ea4cf3dae0f4f3449a33af72e51d5ad4e5bb</en>
     <ru>b6a5c059be7bc5dd5c910aaf17b56748ec40e08abdc4297e12037790a429500f</ru>
+    <en>48f5c2e95e69d77fc7f61a37d503ea4cf3dae0f4f3449a33af72e51d5ad4e5bb</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -28,6 +28,7 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
+    <video name="MasterAndServant1.mp4" size="127146" type="video/mp4">1b62cb762ce1efb4f831f142c8c3c1d8ef4b95846bc448558b87aca9a5792526</video>
     <notes>
       <note number="1" values="18" ticks="337" durationTicks="94" ppq="192" velocity="0.296"/>
       <note number="2" values="18" ticks="433" durationTicks="87" ppq="192" velocity="0.274"/>
@@ -56,6 +57,7 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
+    <video name="MasterAndServant2_0.mp4" size="107307" type="video/mp4">d9fac8fa8141017352535f691ea47fe72b2ccd06f6f431cb714a84a307d43ef5</video>
     <notes>
       <note number="1" values="18" ticks="96" durationTicks="94" ppq="192" velocity="0.311"/>
       <note number="2" values="18" ticks="191" durationTicks="87" ppq="192" velocity="0.309"/>
@@ -84,6 +86,7 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
+    <video name="MasterAndServant3_0.mp4" size="124717" type="video/mp4">6e8a7d5a52cacbc9be113ca4365bd6c278a80f41a93329bea94c3bb2c26f981c</video>
     <notes>
       <note number="1" values="18" ticks="48" durationTicks="90" ppq="192" velocity="0.319"/>
       <note number="2" values="18" ticks="146" durationTicks="87" ppq="192" velocity="0.299"/>
@@ -112,6 +115,7 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
+    <video name="MasterAndServant4_0.mp4" size="144707" type="video/mp4">05b4ae0d9b3ea1c20d2539d016894302a0fa757ae8faece2ae936fe3929919e3</video>
     <notes>
       <note number="1" values="18" ticks="48" durationTicks="94" ppq="192" velocity="0.316"/>
       <note number="2" values="18" ticks="142" durationTicks="87" ppq="192" velocity="0.314"/>
