@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>master-and-servant-octaves</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="tonic-2"/>
   <readme>
     <ru>b6a5c059be7bc5dd5c910aaf17b56748ec40e08abdc4297e12037790a429500f</ru>
@@ -88,12 +88,12 @@
     <tonalities>1</tonalities>
     <video name="MasterAndServant3_0.mp4" size="124717" type="video/mp4" volume="1">6e8a7d5a52cacbc9be113ca4365bd6c278a80f41a93329bea94c3bb2c26f981c</video>
     <notes>
-      <note number="1" values="18" ticks="48" durationTicks="90" ppq="192" velocity="0.319"/>
-      <note number="2" values="18" ticks="146" durationTicks="87" ppq="192" velocity="0.299"/>
-      <note number="3" values="18" ticks="240" durationTicks="192" ppq="192" velocity="0.316"/>
-      <note number="4" values="1" ticks="433" durationTicks="96" ppq="192" velocity="0.299"/>
-      <note number="5" values="1" ticks="530" durationTicks="93" ppq="192" velocity="0.316"/>
-      <note number="6" values="1" ticks="627" durationTicks="188" ppq="192" velocity="0.299"/>
+      <note number="1" values="18" ticks="2" durationTicks="62" ppq="192" velocity="0.676"/>
+      <note number="2" values="18" ticks="80" durationTicks="62" ppq="192" velocity="0.661"/>
+      <note number="3" values="18" ticks="174" durationTicks="141" ppq="192" velocity="0.714"/>
+      <note number="4" values="1" ticks="367" durationTicks="62" ppq="192" velocity="0.651"/>
+      <note number="5" values="1" ticks="464" durationTicks="64" ppq="192" velocity="0.639"/>
+      <note number="6" values="1" ticks="561" durationTicks="188" ppq="192" velocity="0.749"/>
     </notes>
   </exercise>
   <exercise number="7">
@@ -117,11 +117,11 @@
     <tonalities>1</tonalities>
     <video name="MasterAndServant4_0.mp4" size="144707" type="video/mp4" volume="1">05b4ae0d9b3ea1c20d2539d016894302a0fa757ae8faece2ae936fe3929919e3</video>
     <notes>
-      <note number="1" values="18" ticks="48" durationTicks="94" ppq="192" velocity="0.316"/>
-      <note number="2" values="18" ticks="142" durationTicks="87" ppq="192" velocity="0.314"/>
-      <note number="3" values="18" ticks="240" durationTicks="191" ppq="192" velocity="0.306"/>
-      <note number="4" values="1" ticks="432" durationTicks="194" ppq="192" velocity="0.306"/>
-      <note number="5" values="1" ticks="625" durationTicks="189" ppq="192" velocity="0.301"/>
+      <note number="1" values="18" ticks="4" durationTicks="69" ppq="192" velocity="0.734"/>
+      <note number="2" values="18" ticks="100" durationTicks="61" ppq="192" velocity="0.709"/>
+      <note number="3" values="18" ticks="196" durationTicks="191" ppq="192" velocity="0.797"/>
+      <note number="4" values="1" ticks="388" durationTicks="148" ppq="192" velocity="0.712"/>
+      <note number="5" values="1" ticks="581" durationTicks="189" ppq="192" velocity="0.767"/>
     </notes>
   </exercise>
   <exercise number="9">
