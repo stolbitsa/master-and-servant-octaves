@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>master-and-servant-octaves</repo>
-  <version>v1.0.9</version>
+  <version>v1.0.10</version>
   <next number="1" owner="stolbitsa" repo="tonic-2"/>
   <readme>
     <ru>054f164dfe9e5dd509b11a59b171a6dd8f14f3f20899d254507bedc278b8d87f</ru>
@@ -30,12 +30,12 @@
     <tonalities>1</tonalities>
     <video name="28-depeche-mode1.mp4" size="1750594" type="video/mp4" volume="1">2f073aaa11a8490aea8cfc1ce43f6b19261f5d40114aa210fc12700e75b97e8d</video>
     <notes>
-      <note number="1" values="18" ticks="309" durationTicks="70" ppq="192" velocity="0.659"/>
-      <note number="2" values="18" ticks="405" durationTicks="68" ppq="192" velocity="0.651"/>
-      <note number="3" values="18" ticks="502" durationTicks="94" ppq="192" velocity="0.649"/>
-      <note number="4" values="1" ticks="691" durationTicks="73" ppq="192" velocity="0.601"/>
-      <note number="5" values="1" ticks="789" durationTicks="71" ppq="192" velocity="0.634"/>
-      <note number="6" values="1" ticks="887" durationTicks="125" ppq="192" velocity="0.654"/>
+      <note number="1" values="18" ticks="293" durationTicks="70" ppq="192" velocity="0.659"/>
+      <note number="2" values="18" ticks="389" durationTicks="68" ppq="192" velocity="0.651"/>
+      <note number="3" values="18" ticks="486" durationTicks="94" ppq="192" velocity="0.649"/>
+      <note number="4" values="1" ticks="675" durationTicks="73" ppq="192" velocity="0.601"/>
+      <note number="5" values="1" ticks="773" durationTicks="71" ppq="192" velocity="0.634"/>
+      <note number="6" values="1" ticks="871" durationTicks="125" ppq="192" velocity="0.654"/>
     </notes>
   </exercise>
   <exercise number="3">
@@ -57,14 +57,14 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="28-depeche-mode-2.mp4" size="1159255" type="video/mp4" volume="1">05f48aedb2660b6edd95b3ebe8cb9d5a634aea2dbbd98400536929a32c414816</video>
+    <video name="28-depeche-mode-2.mp4" size="1159255" type="video/mp4" volume="0.5">05f48aedb2660b6edd95b3ebe8cb9d5a634aea2dbbd98400536929a32c414816</video>
     <notes>
-      <note number="1" values="18" ticks="192" durationTicks="64" ppq="192" velocity="0.719"/>
-      <note number="2" values="18" ticks="287" durationTicks="65" ppq="192" velocity="0.679"/>
-      <note number="3" values="18" ticks="383" durationTicks="112" ppq="192" velocity="0.722"/>
-      <note number="4" values="1" ticks="575" durationTicks="70" ppq="192" velocity="0.701"/>
-      <note number="5" values="1" ticks="673" durationTicks="69" ppq="192" velocity="0.661"/>
-      <note number="6" values="1" ticks="767" durationTicks="170" ppq="192" velocity="0.722"/>
+      <note number="1" values="18" ticks="174" durationTicks="64" ppq="192" velocity="0.719"/>
+      <note number="2" values="18" ticks="269" durationTicks="65" ppq="192" velocity="0.679"/>
+      <note number="3" values="18" ticks="365" durationTicks="112" ppq="192" velocity="0.722"/>
+      <note number="4" values="1" ticks="557" durationTicks="70" ppq="192" velocity="0.701"/>
+      <note number="5" values="1" ticks="655" durationTicks="69" ppq="192" velocity="0.661"/>
+      <note number="6" values="1" ticks="749" durationTicks="170" ppq="192" velocity="0.722"/>
     </notes>
   </exercise>
   <exercise number="5">
@@ -86,14 +86,14 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="28-depeche-mode-3.mp4" size="1431611" type="video/mp4" volume="1">010a052bb31d6205601a5b86b586d212aba1325af6f58443d9f351d9effd514a</video>
+    <video name="28-depeche-mode-3.mp4" size="1431611" type="video/mp4" volume="0.671">010a052bb31d6205601a5b86b586d212aba1325af6f58443d9f351d9effd514a</video>
     <notes>
-      <note number="1" values="18" ticks="220" durationTicks="62" ppq="192" velocity="0.676"/>
-      <note number="2" values="18" ticks="316" durationTicks="62" ppq="192" velocity="0.661"/>
-      <note number="3" values="18" ticks="410" durationTicks="141" ppq="192" velocity="0.714"/>
-      <note number="4" values="1" ticks="603" durationTicks="62" ppq="192" velocity="0.651"/>
-      <note number="5" values="1" ticks="700" durationTicks="64" ppq="192" velocity="0.639"/>
-      <note number="6" values="1" ticks="797" durationTicks="188" ppq="192" velocity="0.749"/>
+      <note number="1" values="18" ticks="210" durationTicks="62" ppq="192" velocity="0.676"/>
+      <note number="2" values="18" ticks="306" durationTicks="62" ppq="192" velocity="0.661"/>
+      <note number="3" values="18" ticks="400" durationTicks="141" ppq="192" velocity="0.714"/>
+      <note number="4" values="1" ticks="593" durationTicks="62" ppq="192" velocity="0.651"/>
+      <note number="5" values="1" ticks="690" durationTicks="64" ppq="192" velocity="0.639"/>
+      <note number="6" values="1" ticks="787" durationTicks="188" ppq="192" velocity="0.749"/>
     </notes>
   </exercise>
   <exercise number="7">
@@ -115,13 +115,13 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="28-depeche-mode-4.mp4" size="3124721" type="video/mp4" volume="1">cfd6d12c289e539589b66ce450650c0b18d800d1b3ef617710385f9d85406a85</video>
+    <video name="28-depeche-mode-4.mp4" size="3124721" type="video/mp4" volume="0.746">cfd6d12c289e539589b66ce450650c0b18d800d1b3ef617710385f9d85406a85</video>
     <notes>
-      <note number="1" values="18" ticks="256" durationTicks="69" ppq="192" velocity="0.734"/>
-      <note number="2" values="18" ticks="352" durationTicks="61" ppq="192" velocity="0.709"/>
-      <note number="3" values="18" ticks="448" durationTicks="191" ppq="192" velocity="0.797"/>
-      <note number="4" values="1" ticks="640" durationTicks="148" ppq="192" velocity="0.712"/>
-      <note number="5" values="1" ticks="833" durationTicks="189" ppq="192" velocity="0.767"/>
+      <note number="1" values="18" ticks="240" durationTicks="69" ppq="192" velocity="0.734"/>
+      <note number="2" values="18" ticks="336" durationTicks="61" ppq="192" velocity="0.709"/>
+      <note number="3" values="18" ticks="432" durationTicks="191" ppq="192" velocity="0.797"/>
+      <note number="4" values="1" ticks="624" durationTicks="148" ppq="192" velocity="0.712"/>
+      <note number="5" values="1" ticks="817" durationTicks="189" ppq="192" velocity="0.767"/>
     </notes>
   </exercise>
   <exercise number="9">
